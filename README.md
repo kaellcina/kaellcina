@@ -59,5 +59,4 @@ O projeto tem como objetivo centralizar informações e facilitar o gerenciament
 LinkedIn :www.linkedin.com/in/kaell-soares-calacina
 Email: kaelcina@gmail.com
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/kaell-soares-calcina/)
-* 📧 [E-mail](mailto:kaelcina@gmail.com)
+
