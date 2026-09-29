@@ -1,62 +1,77 @@
 # Olá! Eu sou Kaell 👋
 
-💻 Desenvolvedor | 🎓 Análise e Desenvolvimento de Sistemas
+### Desenvolvedor Full Stack | Web & Mobile
 
-Sou desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, interessado em desenvolvimento de software, backend, bancos de dados e criação de soluções que utilizam tecnologia para resolver problemas reais.
+Desenvolvedor com formação em Análise e Desenvolvimento de Sistemas, focado na criação de aplicações web e mobile, APIs REST e sistemas personalizados.
+
+Gosto de transformar problemas reais em soluções digitais funcionais, organizadas e fáceis de usar.
+
+---
 
 ## 🛠️ Tecnologias
 
-### 💻 Linguagens e Desenvolvimento
+**Frontend**
+- Angular
+- React Native
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
 
-* Python
-* TypeScript
-* JavaScript
-* C
-* C++
-* HTML5
-* CSS3
+**Backend**
+- Java
+- Spring Boot
+- APIs REST
+- Node.js
 
-### 🗄️ Banco de Dados
+**Banco de Dados**
+- SQL
+- PostgreSQL
+- MySQL
+- SQLite
 
-* SQL
-* PostgreSQL
-* MySQL
-* SQLite
+**Ferramentas**
+- Git
+- GitHub
+- VS Code
+- Postman
 
-### 🔧 Ferramentas e Tecnologias
-
-* Git
-* GitHub
-* Node.js
-* APIs REST
-* Desenvolvimento Backend
+---
 
 ## 🚀 Projetos em destaque
 
-### 🦟 Zika Maps
+### CRM Empresas
+Sistema Full Stack para gerenciamento de empresas, contatos, leads, negócios e atividades.
 
-Sistema de monitoramento de arboviroses desenvolvido para auxiliar no acompanhamento e combate a doenças como Dengue e Zika Vírus.
+**Tecnologias:** Angular, Java, Spring Boot, Spring Security, JWT, JPA/Hibernate e H2.
 
-**Tecnologias:** TypeScript, Python e SQL
+🔗 [Ver projeto](https://github.com/kaellcina/crm-empresas)
 
-### 💼 CRM — Sistema de Gestão de Clientes
+---
 
-Sistema de CRM desenvolvido para gerenciamento e organização de clientes, desenvolvido com uma arquitetura composta por frontend e backend.
+### ZikaMaps
+Plataforma de monitoramento de arboviroses com recursos de geolocalização, mapas, registros de ocorrências e acompanhamento de focos.
 
-O projeto tem como objetivo centralizar informações e facilitar o gerenciamento dos dados e processos relacionados aos clientes.
+**Tecnologias:** TypeScript, Python, SQL e tecnologias de mapas/geolocalização.
 
-**Tecnologias:** Backend, APIs REST, banco de dados e desenvolvimento web.
+🔗 [Frontend](https://github.com/kaellcina/zika-maps-front)  
+🔗 [Backend](https://github.com/kaellcina/zika-maps-back)
 
-## 🎯 Atualmente
+---
 
-* 📚 Aprimorando minhas habilidades em desenvolvimento de software
-* 💻 Desenvolvendo projetos para meu portfólio
-* 🗄️ Aprofundando meus conhecimentos em SQL e bancos de dados
-* ⚙️ Estudando desenvolvimento backend e APIs
-* 🚀 Buscando uma oportunidade profissional na área de tecnologia
+## 📌 Atualmente
+
+- Desenvolvendo projetos Full Stack
+- Aprimorando conhecimentos em arquitetura de software e APIs
+- Construindo aplicações web e mobile
+- Aplicando boas práticas de desenvolvimento e arquitetura
 
 ## 📫 Contato
-LinkedIn :www.linkedin.com/in/kaell-soares-calacina
-Email: kaelcina@gmail.com
 
+[LinkedIn](https://www.linkedin.com/in/kaell-soares-calacina/)
 
+[GitHub](https://github.com/kaellcina)
+
+[WhatsApp](https://wa.link/179gyu)
+
+**E-mail:** kaelcina@gmail.com
